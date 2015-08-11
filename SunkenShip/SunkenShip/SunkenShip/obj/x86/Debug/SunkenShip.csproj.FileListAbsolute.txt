@@ -1,0 +1,6 @@
+E:\Documents\GitHub\SunkenShip\SunkenShip\SunkenShip\SunkenShip\bin\x86\Debug\SunkenShip.exe
+E:\Documents\GitHub\SunkenShip\SunkenShip\SunkenShip\SunkenShip\bin\x86\Debug\SunkenShip.pdb
+E:\Documents\GitHub\SunkenShip\SunkenShip\SunkenShip\SunkenShip\obj\x86\Debug\SunkenShip.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\SunkenShip\SunkenShip\SunkenShip\SunkenShip\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Documents\GitHub\SunkenShip\SunkenShip\SunkenShip\SunkenShip\obj\x86\Debug\SunkenShip.exe
+E:\Documents\GitHub\SunkenShip\SunkenShip\SunkenShip\SunkenShip\obj\x86\Debug\SunkenShip.pdb
